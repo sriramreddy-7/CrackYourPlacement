@@ -6,8 +6,6 @@ for i in strs:
         s=i
 
 # def check(flag):
-
-
 def fun(s,strs):
     i=0
     f=len(s)
